@@ -2,3 +2,7 @@
 .vs/
 x64/
 cppRepos/x64
+
+# Visual Studio .vs files
+*.suo
+*.db
